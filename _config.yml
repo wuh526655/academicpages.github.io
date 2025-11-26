@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : Jer Ruan
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "我是一个在江西理工大学就读的新生，来自江西上饶，平常喜欢跑步，打羽毛球，打网球，最喜欢的明星是王嘉尔，就在前不久他刚刚来了江西赣州。希望下次有机会偶遇"
+  location         : "In Jer's heart"
+  employer         : "jiangxiligong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "3040276793@qq.com" 
 
   # Academic websites
   academia         : # URL
