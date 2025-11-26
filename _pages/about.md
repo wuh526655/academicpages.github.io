@@ -10,6 +10,6 @@ redirect_from:
 
 A data-driven personal website
 ======
-我现在在江西理工大学学习
+我现在在江西理工大学学习,就读于信息安全专业，平常喜欢看电视，打球，跑步，听歌
 
 
